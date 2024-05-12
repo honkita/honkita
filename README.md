@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honkita&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![Leetcode Stats](https://leetcard.jacoblin.cool/elitelulww)
+![Leetcode Stats](https://leetcard.jacoblin.cool/elitelulww?font=Calibri)
