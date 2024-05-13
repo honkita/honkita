@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honkita&show_icons=true&theme=kacho_ga&border_radius=15&font=Reddit_Sans)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=honkita&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/elitelulww?ext=heatmap&font=Carlito&border=0&radius=15&theme=dark)
