@@ -14,15 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <a href="https://github.com/honkita">
-    <img title="GitHub" src="https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_GitHub.svg" width="32">
-  </a>
-
-  <a href="https://www.linkedin.com/in/elitelu/">
-    <img title="LinkedIn" src="https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_LinkedIn.svg" width="32">
-  </a>
-</p>
+[![](https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_GitHub.svg)](https://github.com/honkita) [![](https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_Link.svg)](https://elitelu.com) [![](https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_LinkedIn.svg)](https://www.linkedin.com/in/elitelu/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honkita&show_icons=true&theme=kacho_ga&border_radius=15&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/elitelulww?ext=heatmap&border=0&radius=15&theme=unicorn)
