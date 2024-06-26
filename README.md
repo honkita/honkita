@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 ![WIP GitHub Stats](https://git-hub-stats-backend.vercel.app?github=honkita&colour=reds)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honkita)](https://github.com/anuraghazra/github-readme-stats)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/elitelulww?ext=heatmap&border=0&radius=15&theme=unicorn)
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=elitelulww&theme=kacho_ga)
 
