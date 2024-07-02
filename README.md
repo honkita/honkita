@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 [![](https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_GitHub.svg)](https://github.com/honkita) [![](https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_Link.svg)](https://elitelu.com) [![](https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_LinkedIn.svg)](https://www.linkedin.com/in/elitelu/)
 
 
-![WIP GitHub Stats](https://git-hub-stats-backend.vercel.app?github=honkita&colour=reds)
-![Leetcode Stats](https://leetcard.jacoblin.cool/elitelulww?ext=heatmap&border=0&radius=15&theme=unicorn)
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=elitelulww&theme=kacho_ga)
+[![GitHub Stats](https://git-hub-stats-backend.vercel.app?github=honkita&colour=reds)](https://github.com/honkita/GitHub-Stats-Backend)
 
 
