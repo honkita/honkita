@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 [![](https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_GitHub.svg)](https://github.com/honkita) [![](https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_Link.svg)](https://elitelu.com) [![](https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_LinkedIn.svg)](https://www.linkedin.com/in/elitelu/)
 
-<center><img title="GitHub Stats" src="https://git-hub-stats-backend.vercel.app?github=honkita&colour=reds"/></center>
+[![](https://git-hub-stats-backend.vercel.app?github=honkita&colour=reds)](https://github.com/honkita/GitHub-Stats-Backend)
 
 
